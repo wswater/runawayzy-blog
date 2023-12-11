@@ -1,8 +1,7 @@
 ---
+title: 关于本站
 pageInfo: false
 ---
-
-# 关于本站
 
 本站用Vuepress2静态生成，托管在Cloudflare pages上，用Git进行版本管理。更新博客的流程大概是：
 
@@ -11,7 +10,7 @@ pageInfo: false
 3. Cloudflare pages开始部署github仓库的vuepress代码
 4. 发布到托管服务器
 
-Vuepress主题是vuepress-hope，评论插件使用Waline
+Vuepress主题是vuepress-theme-hope，评论插件使用Waline
 
 ## //TODO
 
